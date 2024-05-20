@@ -1,0 +1,1 @@
+mongodb+srv://badisjl99:123321Sn99.@cluster0.gnyg3mm.mongodb.net/
